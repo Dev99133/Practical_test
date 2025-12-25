@@ -1,0 +1,502 @@
+Date,Amount,Category,Description,Payment_Mode,Merchant,Status,Month
+2024-05-09 00:00:00,4526.27,Shopping,Expense 1,Cash,Merchant_10,Pending,May
+2024-03-15 00:00:00,4672.36,Entertainment,Expense 2,Cash,Merchant_10,Pending,March
+2024-09-21 00:00:00,4519.39,Entertainment,Expense 3,Cash,Merchant_24,Pending,September
+2024-12-08 00:00:00,113.85,Entertainment,Expense 4,Credit Card,Merchant_44,Pending,December
+2024-04-07 00:00:00,4760.73,Utilities,Expense 5,UPI,Merchant_12,Pending,April
+2024-04-27 00:00:00,733.38,Food,Expense 6,Debit Card,Merchant_24,Pending,April
+2024-04-06 00:00:00,2385.0,Food,Expense 7,Credit Card,Merchant_19,Paid,April
+2024-06-24 00:00:00,3557.72,Transport,Expense 8,Net Banking,Merchant_47,Pending,June
+2024-11-05 00:00:00,2896.71,Utilities,Expense 9,Cash,Merchant_23,Paid,November
+2024-02-24 00:00:00,2419.93,Food,Expense 10,Debit Card,Merchant_20,Paid,February
+2024-10-14 00:00:00,411.0,Health,Expense 11,Cash,Merchant_18,Pending,October
+2024-09-26 00:00:00,149.17,Health,Expense 12,Credit Card,Merchant_37,Paid,September
+2024-02-14 00:00:00,2028.84,Food,Expense 13,Net Banking,Merchant_17,Pending,February
+2024-06-19 00:00:00,2899.65,Food,Expense 14,Credit Card,Merchant_48,Pending,June
+2024-10-31 00:00:00,287.66,Health,Expense 15,UPI,Merchant_25,Pending,October
+2024-08-26 00:00:00,3069.51,Shopping,Expense 16,Cash,Merchant_19,Paid,August
+2024-05-15 00:00:00,1269.13,Entertainment,Expense 17,Credit Card,Merchant_30,Pending,May
+2024-03-17 00:00:00,1782.35,Food,Expense 18,UPI,Merchant_39,Paid,March
+2024-01-13 00:00:00,2574.89,Health,Expense 19,Net Banking,Merchant_5,Pending,January
+2024-12-15 00:00:00,4261.43,Education,Expense 20,Net Banking,Merchant_47,Pending,December
+2024-04-20 00:00:00,2791.14,Health,Expense 21,Credit Card,Merchant_25,Pending,April
+2024-09-15 00:00:00,4686.66,Transport,Expense 22,Cash,Merchant_12,Pending,September
+2024-11-13 00:00:00,4556.54,Health,Expense 23,Credit Card,Merchant_9,Pending,November
+2024-01-17 00:00:00,4794.45,Entertainment,Expense 24,Cash,Merchant_10,Paid,January
+2024-05-18 00:00:00,1362.65,Education,Expense 25,Debit Card,Merchant_29,Paid,May
+2024-08-25 00:00:00,3395.1,Utilities,Expense 26,Credit Card,Merchant_19,Paid,August
+2024-07-18 00:00:00,2893.97,Transport,Expense 27,Debit Card,Merchant_10,Pending,July
+2024-07-16 00:00:00,2066.37,Entertainment,Expense 28,UPI,Merchant_48,Pending,July
+2024-03-08 00:00:00,4106.28,Utilities,Expense 29,Net Banking,Merchant_32,Pending,March
+2024-05-04 00:00:00,4813.89,Entertainment,Expense 30,UPI,Merchant_29,Paid,May
+2024-12-01 00:00:00,3044.13,Transport,Expense 31,Net Banking,Merchant_24,Pending,December
+2024-11-07 00:00:00,3536.94,Food,Expense 32,Debit Card,Merchant_42,Pending,November
+2024-05-26 00:00:00,1135.45,Food,Expense 33,Credit Card,Merchant_38,Paid,May
+2024-07-01 00:00:00,555.9,Food,Expense 34,UPI,Merchant_2,Paid,July
+2024-08-26 00:00:00,2415.36,Health,Expense 35,UPI,Merchant_35,Paid,August
+2024-09-07 00:00:00,4549.81,Education,Expense 36,Debit Card,Merchant_24,Paid,September
+2024-06-20 00:00:00,2604.11,Food,Expense 37,UPI,Merchant_31,Pending,June
+2024-01-25 00:00:00,3058.55,Food,Expense 38,Cash,Merchant_32,Paid,January
+2024-08-27 00:00:00,3573.37,Transport,Expense 39,Credit Card,Merchant_13,Paid,August
+2024-03-13 00:00:00,670.05,Education,Expense 40,Debit Card,Merchant_26,Paid,March
+2024-10-05 00:00:00,2337.48,Health,Expense 41,Cash,Merchant_22,Paid,October
+2024-07-23 00:00:00,3773.51,Education,Expense 42,Net Banking,Merchant_17,Paid,July
+2024-04-23 00:00:00,1343.05,Transport,Expense 43,Credit Card,Merchant_12,Paid,April
+2024-10-28 00:00:00,644.93,Utilities,Expense 44,Debit Card,Merchant_42,Paid,October
+2024-03-21 00:00:00,1639.87,Entertainment,Expense 45,Credit Card,Merchant_48,Pending,March
+2024-06-05 00:00:00,3959.39,Entertainment,Expense 46,Cash,Merchant_46,Paid,June
+2024-06-05 00:00:00,4197.24,Health,Expense 47,Debit Card,Merchant_11,Paid,June
+2024-07-14 00:00:00,2370.89,Health,Expense 48,Credit Card,Merchant_31,Pending,July
+2024-07-12 00:00:00,3626.79,Shopping,Expense 49,UPI,Merchant_47,Paid,July
+2024-02-19 00:00:00,1181.89,Food,Expense 50,Debit Card,Merchant_16,Pending,February
+2024-08-05 00:00:00,1112.2,Utilities,Expense 51,Debit Card,Merchant_29,Pending,August
+2024-03-16 00:00:00,1108.61,Health,Expense 52,Debit Card,Merchant_42,Pending,March
+2024-05-19 00:00:00,858.67,Education,Expense 53,Credit Card,Merchant_47,Pending,May
+2024-09-24 00:00:00,3862.33,Shopping,Expense 54,Net Banking,Merchant_37,Pending,September
+2024-02-23 00:00:00,4066.67,Education,Expense 55,Debit Card,Merchant_15,Pending,February
+2024-03-19 00:00:00,4961.07,Entertainment,Expense 56,Debit Card,Merchant_1,Paid,March
+2024-03-27 00:00:00,347.36,Food,Expense 57,Cash,Merchant_10,Paid,March
+2024-12-02 00:00:00,186.08,Entertainment,Expense 58,Debit Card,Merchant_10,Paid,December
+2024-01-10 00:00:00,1599.46,Transport,Expense 59,Debit Card,Merchant_25,Pending,January
+2024-06-17 00:00:00,2216.68,Education,Expense 60,Net Banking,Merchant_33,Paid,June
+2024-12-29 00:00:00,3260.72,Entertainment,Expense 61,Debit Card,Merchant_39,Pending,December
+2024-11-28 00:00:00,4469.92,Entertainment,Expense 62,UPI,Merchant_48,Paid,November
+2024-03-27 00:00:00,1693.83,Entertainment,Expense 63,Debit Card,Merchant_33,Paid,March
+2024-08-02 00:00:00,4048.83,Shopping,Expense 64,Debit Card,Merchant_23,Pending,August
+2024-08-09 00:00:00,4315.74,Transport,Expense 65,Debit Card,Merchant_38,Paid,August
+2024-11-30 00:00:00,2079.03,Food,Expense 66,UPI,Merchant_38,Paid,November
+2024-09-23 00:00:00,3861.49,Transport,Expense 67,UPI,Merchant_17,Pending,September
+2024-06-13 00:00:00,621.3,Education,Expense 68,UPI,Merchant_30,Paid,June
+2024-03-21 00:00:00,2344.0,Transport,Expense 69,Credit Card,Merchant_13,Pending,March
+2024-08-01 00:00:00,2611.82,Utilities,Expense 70,Cash,Merchant_27,Paid,August
+2024-08-17 00:00:00,2221.7,Entertainment,Expense 71,Credit Card,Merchant_28,Paid,August
+2024-01-04 00:00:00,2145.81,Entertainment,Expense 72,UPI,Merchant_6,Paid,January
+2024-07-10 00:00:00,4157.96,Education,Expense 73,UPI,Merchant_4,Pending,July
+2024-10-29 00:00:00,4787.97,Shopping,Expense 74,Net Banking,Merchant_14,Paid,October
+2024-10-22 00:00:00,1595.39,Utilities,Expense 75,Cash,Merchant_3,Pending,October
+2024-11-17 00:00:00,3492.33,Education,Expense 76,UPI,Merchant_45,Paid,November
+2024-02-29 00:00:00,370.66,Transport,Expense 77,Net Banking,Merchant_49,Pending,February
+2024-08-15 00:00:00,1730.06,Food,Expense 78,Debit Card,Merchant_43,Pending,August
+2024-07-21 00:00:00,3469.6,Food,Expense 79,Net Banking,Merchant_3,Pending,July
+2024-07-28 00:00:00,1511.95,Transport,Expense 80,Credit Card,Merchant_15,Paid,July
+2024-01-13 00:00:00,1597.08,Transport,Expense 81,Credit Card,Merchant_10,Pending,January
+2024-12-20 00:00:00,366.76,Shopping,Expense 82,UPI,Merchant_9,Paid,December
+2024-01-26 00:00:00,1716.97,Education,Expense 83,Credit Card,Merchant_31,Paid,January
+2024-01-23 00:00:00,4504.86,Food,Expense 84,Net Banking,Merchant_33,Paid,January
+2024-06-25 00:00:00,4073.93,Food,Expense 85,UPI,Merchant_25,Paid,June
+2024-12-06 00:00:00,2304.99,Food,Expense 86,UPI,Merchant_31,Pending,December
+2024-06-22 00:00:00,638.31,Education,Expense 87,Credit Card,Merchant_47,Pending,June
+2024-06-08 00:00:00,2349.42,Health,Expense 88,Cash,Merchant_38,Pending,June
+2024-02-15 00:00:00,617.36,Entertainment,Expense 89,UPI,Merchant_12,Pending,February
+2024-06-03 00:00:00,4464.92,Utilities,Expense 90,Net Banking,Merchant_25,Pending,June
+2024-11-22 00:00:00,4368.77,Food,Expense 91,UPI,Merchant_28,Pending,November
+2024-08-27 00:00:00,2175.49,Food,Expense 92,Net Banking,Merchant_36,Paid,August
+2024-03-09 00:00:00,2200.28,Utilities,Expense 93,Credit Card,Merchant_40,Paid,March
+2024-06-14 00:00:00,3507.86,Food,Expense 94,Debit Card,Merchant_33,Pending,June
+2024-10-12 00:00:00,1875.23,Health,Expense 95,Net Banking,Merchant_11,Paid,October
+2024-10-15 00:00:00,2816.59,Shopping,Expense 96,Debit Card,Merchant_20,Paid,October
+2024-09-03 00:00:00,452.56,Shopping,Expense 97,UPI,Merchant_36,Pending,September
+2024-01-26 00:00:00,3310.43,Shopping,Expense 98,Credit Card,Merchant_20,Pending,January
+2024-06-30 00:00:00,3621.47,Entertainment,Expense 99,Credit Card,Merchant_29,Paid,June
+2024-08-18 00:00:00,2526.17,Health,Expense 100,UPI,Merchant_11,Paid,August
+2024-08-05 00:00:00,501.14,Utilities,Expense 101,Debit Card,Merchant_6,Pending,August
+2024-11-29 00:00:00,392.82,Health,Expense 102,Credit Card,Merchant_24,Paid,November
+2024-11-30 00:00:00,1285.37,Food,Expense 103,UPI,Merchant_2,Paid,November
+2024-03-23 00:00:00,78.96,Health,Expense 104,Credit Card,Merchant_22,Paid,March
+2024-11-03 00:00:00,1288.05,Shopping,Expense 105,Net Banking,Merchant_6,Pending,November
+2024-01-18 00:00:00,1476.18,Health,Expense 106,Debit Card,Merchant_44,Pending,January
+2024-12-07 00:00:00,762.8,Transport,Expense 107,UPI,Merchant_1,Paid,December
+2024-11-01 00:00:00,4041.68,Utilities,Expense 108,Debit Card,Merchant_10,Pending,November
+2024-11-14 00:00:00,724.31,Shopping,Expense 109,Debit Card,Merchant_49,Paid,November
+2024-08-26 00:00:00,2614.25,Transport,Expense 110,Net Banking,Merchant_38,Paid,August
+2024-01-20 00:00:00,2812.79,Shopping,Expense 111,UPI,Merchant_35,Paid,January
+2024-09-12 00:00:00,610.62,Education,Expense 112,Credit Card,Merchant_1,Paid,September
+2024-12-21 00:00:00,239.33,Entertainment,Expense 113,Credit Card,Merchant_11,Pending,December
+2024-05-26 00:00:00,1969.5,Utilities,Expense 114,Credit Card,Merchant_1,Paid,May
+2024-07-27 00:00:00,1878.34,Health,Expense 115,Debit Card,Merchant_9,Paid,July
+2024-09-26 00:00:00,3624.3,Transport,Expense 116,UPI,Merchant_11,Pending,September
+2024-04-11 00:00:00,1602.47,Shopping,Expense 117,Net Banking,Merchant_50,Pending,April
+2024-04-08 00:00:00,420.95,Food,Expense 118,UPI,Merchant_36,Paid,April
+2024-10-09 00:00:00,1281.83,Education,Expense 119,Net Banking,Merchant_30,Paid,October
+2024-05-26 00:00:00,2931.48,Health,Expense 120,Net Banking,Merchant_21,Paid,May
+2024-11-06 00:00:00,309.14,Utilities,Expense 121,Cash,Merchant_45,Pending,November
+2024-12-18 00:00:00,666.91,Food,Expense 122,Credit Card,Merchant_28,Pending,December
+2024-03-05 00:00:00,1770.83,Shopping,Expense 123,UPI,Merchant_27,Pending,March
+2024-06-08 00:00:00,1619.68,Health,Expense 124,Debit Card,Merchant_10,Pending,June
+2024-09-03 00:00:00,2680.35,Entertainment,Expense 125,Debit Card,Merchant_49,Pending,September
+2024-02-11 00:00:00,2298.25,Entertainment,Expense 126,UPI,Merchant_33,Pending,February
+2024-07-15 00:00:00,432.52,Entertainment,Expense 127,Net Banking,Merchant_25,Paid,July
+2024-12-22 00:00:00,2690.26,Education,Expense 128,Net Banking,Merchant_5,Paid,December
+2024-08-13 00:00:00,3059.2,Health,Expense 129,Cash,Merchant_23,Paid,August
+2024-11-28 00:00:00,1321.55,Health,Expense 130,Credit Card,Merchant_5,Paid,November
+2024-08-22 00:00:00,2619.84,Entertainment,Expense 131,Debit Card,Merchant_50,Pending,August
+2024-05-13 00:00:00,2627.79,Food,Expense 132,Credit Card,Merchant_36,Paid,May
+2024-07-25 00:00:00,3547.84,Transport,Expense 133,UPI,Merchant_33,Paid,July
+2024-10-23 00:00:00,1099.17,Health,Expense 134,Debit Card,Merchant_18,Paid,October
+2024-08-04 00:00:00,2196.92,Utilities,Expense 135,Net Banking,Merchant_9,Paid,August
+2024-12-09 00:00:00,4096.27,Health,Expense 136,Debit Card,Merchant_21,Paid,December
+2024-12-14 00:00:00,828.27,Health,Expense 137,Credit Card,Merchant_3,Pending,December
+2024-09-14 00:00:00,713.86,Shopping,Expense 138,UPI,Merchant_40,Paid,September
+2024-04-03 00:00:00,1797.38,Transport,Expense 139,UPI,Merchant_50,Pending,April
+2024-03-19 00:00:00,3375.97,Health,Expense 140,Credit Card,Merchant_31,Paid,March
+2024-08-28 00:00:00,2171.16,Health,Expense 141,Net Banking,Merchant_28,Paid,August
+2024-09-15 00:00:00,2735.87,Food,Expense 142,Credit Card,Merchant_26,Paid,September
+2024-05-02 00:00:00,1475.76,Health,Expense 143,Debit Card,Merchant_30,Pending,May
+2024-06-14 00:00:00,1970.73,Health,Expense 144,Credit Card,Merchant_17,Paid,June
+2024-04-09 00:00:00,386.75,Utilities,Expense 145,Debit Card,Merchant_17,Paid,April
+2024-11-15 00:00:00,4892.49,Shopping,Expense 146,Net Banking,Merchant_38,Pending,November
+2024-02-18 00:00:00,4954.06,Transport,Expense 147,Debit Card,Merchant_13,Pending,February
+2024-03-20 00:00:00,146.23,Health,Expense 148,UPI,Merchant_23,Pending,March
+2024-09-23 00:00:00,4366.92,Utilities,Expense 149,UPI,Merchant_13,Paid,September
+2024-10-16 00:00:00,2628.89,Shopping,Expense 150,UPI,Merchant_9,Pending,October
+2024-09-27 00:00:00,3558.28,Utilities,Expense 151,Cash,Merchant_32,Pending,September
+2024-12-04 00:00:00,1442.78,Entertainment,Expense 152,UPI,Merchant_11,Pending,December
+2024-02-29 00:00:00,3222.52,Food,Expense 153,Net Banking,Merchant_9,Pending,February
+2024-06-06 00:00:00,3155.74,Education,Expense 154,Credit Card,Merchant_23,Paid,June
+2024-07-16 00:00:00,3692.82,Transport,Expense 155,UPI,Merchant_39,Pending,July
+2024-09-01 00:00:00,1398.2,Health,Expense 156,Credit Card,Merchant_23,Pending,September
+2024-09-14 00:00:00,4971.34,Education,Expense 157,UPI,Merchant_27,Paid,September
+2024-03-16 00:00:00,4330.07,Food,Expense 158,Net Banking,Merchant_47,Paid,March
+2024-03-07 00:00:00,1450.03,Health,Expense 159,Credit Card,Merchant_4,Paid,March
+2024-02-11 00:00:00,3908.41,Education,Expense 160,Credit Card,Merchant_20,Pending,February
+2024-12-25 00:00:00,1999.28,Shopping,Expense 161,Net Banking,Merchant_3,Pending,December
+2024-05-18 00:00:00,982.42,Transport,Expense 162,Credit Card,Merchant_34,Paid,May
+2024-05-21 00:00:00,4473.68,Utilities,Expense 163,Debit Card,Merchant_19,Paid,May
+2024-11-09 00:00:00,4945.76,Health,Expense 164,Debit Card,Merchant_7,Pending,November
+2024-10-17 00:00:00,4070.36,Shopping,Expense 165,Net Banking,Merchant_12,Paid,October
+2024-12-18 00:00:00,1581.06,Shopping,Expense 166,UPI,Merchant_5,Paid,December
+2024-02-01 00:00:00,4263.92,Food,Expense 167,Debit Card,Merchant_36,Paid,February
+2024-06-14 00:00:00,300.66,Food,Expense 168,UPI,Merchant_21,Paid,June
+2024-04-18 00:00:00,3994.1,Food,Expense 169,Cash,Merchant_50,Paid,April
+2024-11-27 00:00:00,4026.42,Education,Expense 170,Cash,Merchant_31,Pending,November
+2024-12-13 00:00:00,4065.56,Shopping,Expense 171,Cash,Merchant_5,Pending,December
+2024-04-05 00:00:00,1435.74,Education,Expense 172,Cash,Merchant_3,Pending,April
+2024-06-14 00:00:00,2985.36,Transport,Expense 173,UPI,Merchant_48,Pending,June
+2024-09-23 00:00:00,3234.08,Education,Expense 174,Debit Card,Merchant_19,Pending,September
+2024-04-26 00:00:00,1366.18,Utilities,Expense 175,Debit Card,Merchant_31,Paid,April
+2024-01-28 00:00:00,2982.97,Entertainment,Expense 176,Net Banking,Merchant_5,Paid,January
+2024-03-04 00:00:00,3232.79,Health,Expense 177,Cash,Merchant_1,Pending,March
+2024-11-15 00:00:00,4914.24,Utilities,Expense 178,Debit Card,Merchant_1,Paid,November
+2024-09-12 00:00:00,4653.57,Utilities,Expense 179,Cash,Merchant_39,Paid,September
+2024-05-18 00:00:00,316.61,Shopping,Expense 180,Net Banking,Merchant_42,Pending,May
+2024-11-14 00:00:00,1585.99,Food,Expense 181,UPI,Merchant_33,Paid,November
+2024-10-20 00:00:00,4725.56,Food,Expense 182,UPI,Merchant_41,Pending,October
+2024-09-17 00:00:00,4020.2,Transport,Expense 183,Net Banking,Merchant_15,Pending,September
+2024-09-04 00:00:00,3606.95,Transport,Expense 184,Cash,Merchant_41,Pending,September
+2024-05-14 00:00:00,2558.48,Health,Expense 185,Debit Card,Merchant_18,Paid,May
+2024-12-27 00:00:00,1508.23,Transport,Expense 186,UPI,Merchant_2,Paid,December
+2024-11-13 00:00:00,4660.91,Health,Expense 187,Cash,Merchant_9,Pending,November
+2024-10-31 00:00:00,692.5,Education,Expense 188,Cash,Merchant_36,Pending,October
+2024-12-01 00:00:00,750.37,Food,Expense 189,Net Banking,Merchant_41,Paid,December
+2024-06-03 00:00:00,311.05,Education,Expense 190,Cash,Merchant_50,Pending,June
+2024-09-19 00:00:00,4355.36,Shopping,Expense 191,Net Banking,Merchant_37,Paid,September
+2024-08-21 00:00:00,2926.64,Transport,Expense 192,UPI,Merchant_40,Paid,August
+2024-09-26 00:00:00,544.08,Transport,Expense 193,UPI,Merchant_7,Paid,September
+2024-11-23 00:00:00,1208.74,Health,Expense 194,Cash,Merchant_19,Paid,November
+2024-04-19 00:00:00,3627.09,Health,Expense 195,Credit Card,Merchant_40,Pending,April
+2024-04-02 00:00:00,538.67,Shopping,Expense 196,UPI,Merchant_24,Pending,April
+2024-11-14 00:00:00,3559.48,Utilities,Expense 197,Cash,Merchant_15,Pending,November
+2024-11-07 00:00:00,916.98,Shopping,Expense 198,Debit Card,Merchant_3,Pending,November
+2024-09-19 00:00:00,3552.04,Health,Expense 199,Net Banking,Merchant_7,Paid,September
+2024-10-07 00:00:00,3767.0,Health,Expense 200,UPI,Merchant_40,Paid,October
+2024-09-03 00:00:00,2051.1,Entertainment,Expense 201,Net Banking,Merchant_44,Paid,September
+2024-06-30 00:00:00,3397.98,Transport,Expense 202,Cash,Merchant_20,Pending,June
+2024-12-11 00:00:00,465.13,Health,Expense 203,Net Banking,Merchant_30,Paid,December
+2024-09-08 00:00:00,4857.6,Food,Expense 204,Net Banking,Merchant_39,Paid,September
+2024-02-25 00:00:00,1102.12,Health,Expense 205,Credit Card,Merchant_39,Pending,February
+2024-06-24 00:00:00,3273.66,Entertainment,Expense 206,Net Banking,Merchant_50,Pending,June
+2024-09-18 00:00:00,148.66,Entertainment,Expense 207,Debit Card,Merchant_22,Pending,September
+2024-01-16 00:00:00,1149.98,Shopping,Expense 208,Cash,Merchant_42,Paid,January
+2024-07-19 00:00:00,867.97,Education,Expense 209,Credit Card,Merchant_9,Paid,July
+2024-07-11 00:00:00,85.45,Transport,Expense 210,UPI,Merchant_20,Paid,July
+2024-07-15 00:00:00,608.91,Entertainment,Expense 211,Cash,Merchant_9,Paid,July
+2024-10-12 00:00:00,732.68,Food,Expense 212,Debit Card,Merchant_31,Pending,October
+2024-08-06 00:00:00,2104.93,Entertainment,Expense 213,Cash,Merchant_10,Paid,August
+2024-04-19 00:00:00,1523.89,Entertainment,Expense 214,Net Banking,Merchant_30,Pending,April
+2024-06-01 00:00:00,1858.73,Utilities,Expense 215,Debit Card,Merchant_19,Pending,June
+2024-05-27 00:00:00,2780.83,Entertainment,Expense 216,UPI,Merchant_1,Pending,May
+2024-03-22 00:00:00,2581.67,Transport,Expense 217,Cash,Merchant_11,Pending,March
+2024-01-04 00:00:00,275.92,Utilities,Expense 218,Debit Card,Merchant_50,Paid,January
+2024-04-17 00:00:00,1102.6,Health,Expense 219,Cash,Merchant_24,Paid,April
+2024-09-20 00:00:00,3297.73,Education,Expense 220,Cash,Merchant_44,Paid,September
+2024-02-06 00:00:00,2016.44,Health,Expense 221,Cash,Merchant_3,Pending,February
+2024-08-12 00:00:00,2371.93,Food,Expense 222,Debit Card,Merchant_30,Paid,August
+2024-05-07 00:00:00,1730.57,Transport,Expense 223,Credit Card,Merchant_43,Pending,May
+2024-03-03 00:00:00,4800.52,Food,Expense 224,Debit Card,Merchant_9,Pending,March
+2024-10-01 00:00:00,2004.87,Entertainment,Expense 225,UPI,Merchant_43,Paid,October
+2024-10-07 00:00:00,2942.38,Education,Expense 226,Cash,Merchant_3,Pending,October
+2024-12-23 00:00:00,4768.07,Health,Expense 227,UPI,Merchant_23,Pending,December
+2024-05-11 00:00:00,4613.01,Food,Expense 228,Debit Card,Merchant_25,Pending,May
+2024-03-23 00:00:00,215.36,Utilities,Expense 229,Net Banking,Merchant_28,Paid,March
+2024-05-28 00:00:00,3299.6,Health,Expense 230,Cash,Merchant_30,Paid,May
+2024-07-27 00:00:00,4765.21,Entertainment,Expense 231,Debit Card,Merchant_11,Paid,July
+2024-07-02 00:00:00,3816.13,Shopping,Expense 232,Credit Card,Merchant_48,Paid,July
+2024-01-04 00:00:00,4907.75,Food,Expense 233,Net Banking,Merchant_15,Paid,January
+2024-05-29 00:00:00,1626.3,Transport,Expense 234,UPI,Merchant_30,Paid,May
+2024-07-07 00:00:00,1356.48,Health,Expense 235,Cash,Merchant_49,Pending,July
+2024-06-09 00:00:00,548.73,Food,Expense 236,Cash,Merchant_6,Paid,June
+2024-02-29 00:00:00,3643.54,Shopping,Expense 237,Credit Card,Merchant_33,Pending,February
+2024-11-18 00:00:00,408.42,Transport,Expense 238,Debit Card,Merchant_39,Pending,November
+2024-10-30 00:00:00,2028.34,Food,Expense 239,Debit Card,Merchant_1,Paid,October
+2024-05-25 00:00:00,3336.21,Education,Expense 240,Debit Card,Merchant_34,Pending,May
+2024-06-09 00:00:00,3039.59,Food,Expense 241,Debit Card,Merchant_34,Paid,June
+2024-05-19 00:00:00,4055.08,Utilities,Expense 242,Debit Card,Merchant_17,Paid,May
+2024-05-12 00:00:00,3698.79,Transport,Expense 243,Credit Card,Merchant_17,Paid,May
+2024-01-12 00:00:00,1862.04,Transport,Expense 244,Cash,Merchant_22,Paid,January
+2024-06-18 00:00:00,1958.62,Education,Expense 245,Cash,Merchant_12,Paid,June
+2024-08-26 00:00:00,4050.96,Transport,Expense 246,Debit Card,Merchant_45,Paid,August
+2024-03-03 00:00:00,2957.07,Shopping,Expense 247,Credit Card,Merchant_49,Pending,March
+2024-07-06 00:00:00,4182.45,Entertainment,Expense 248,Cash,Merchant_32,Pending,July
+2024-06-26 00:00:00,3597.49,Shopping,Expense 249,Credit Card,Merchant_44,Paid,June
+2024-03-13 00:00:00,4714.02,Shopping,Expense 250,Debit Card,Merchant_42,Paid,March
+2024-07-17 00:00:00,4667.95,Shopping,Expense 251,Net Banking,Merchant_40,Pending,July
+2024-09-11 00:00:00,2669.83,Education,Expense 252,UPI,Merchant_46,Paid,September
+2024-08-12 00:00:00,2301.19,Transport,Expense 253,Debit Card,Merchant_42,Pending,August
+2024-04-11 00:00:00,3518.67,Entertainment,Expense 254,Credit Card,Merchant_42,Pending,April
+2024-07-24 00:00:00,4195.66,Entertainment,Expense 255,Cash,Merchant_36,Pending,July
+2024-09-15 00:00:00,2709.56,Food,Expense 256,Net Banking,Merchant_33,Paid,September
+2024-12-17 00:00:00,1209.08,Education,Expense 257,Cash,Merchant_10,Paid,December
+2024-09-05 00:00:00,82.32,Utilities,Expense 258,Cash,Merchant_19,Pending,September
+2024-04-17 00:00:00,2175.01,Entertainment,Expense 259,UPI,Merchant_38,Paid,April
+2024-09-04 00:00:00,1050.79,Entertainment,Expense 260,Cash,Merchant_21,Pending,September
+2024-07-30 00:00:00,1598.96,Utilities,Expense 261,UPI,Merchant_37,Pending,July
+2024-10-28 00:00:00,101.36,Transport,Expense 262,Credit Card,Merchant_36,Paid,October
+2024-09-26 00:00:00,2770.83,Shopping,Expense 263,Debit Card,Merchant_44,Pending,September
+2024-12-13 00:00:00,2472.02,Food,Expense 264,UPI,Merchant_18,Paid,December
+2024-10-19 00:00:00,4108.34,Education,Expense 265,Debit Card,Merchant_12,Paid,October
+2024-09-12 00:00:00,2487.14,Utilities,Expense 266,Debit Card,Merchant_38,Pending,September
+2024-06-17 00:00:00,4040.82,Health,Expense 267,Net Banking,Merchant_35,Paid,June
+2024-04-27 00:00:00,2571.25,Entertainment,Expense 268,Cash,Merchant_33,Pending,April
+2024-09-11 00:00:00,4773.17,Food,Expense 269,UPI,Merchant_39,Paid,September
+2024-02-11 00:00:00,2244.36,Food,Expense 270,Credit Card,Merchant_22,Pending,February
+2024-08-04 00:00:00,3393.5,Food,Expense 271,UPI,Merchant_9,Pending,August
+2024-11-24 00:00:00,2653.32,Shopping,Expense 272,Credit Card,Merchant_24,Paid,November
+2024-10-05 00:00:00,957.9,Food,Expense 273,UPI,Merchant_47,Paid,October
+2024-02-06 00:00:00,4739.1,Shopping,Expense 274,Credit Card,Merchant_49,Pending,February
+2024-12-05 00:00:00,3025.96,Education,Expense 275,Cash,Merchant_2,Paid,December
+2024-12-20 00:00:00,4524.47,Entertainment,Expense 276,UPI,Merchant_7,Paid,December
+2024-01-15 00:00:00,3155.36,Entertainment,Expense 277,Debit Card,Merchant_16,Pending,January
+2024-07-03 00:00:00,2542.99,Shopping,Expense 278,Cash,Merchant_13,Pending,July
+2024-08-21 00:00:00,770.19,Entertainment,Expense 279,Credit Card,Merchant_48,Pending,August
+2024-08-28 00:00:00,366.32,Transport,Expense 280,UPI,Merchant_50,Paid,August
+2024-05-23 00:00:00,223.18,Food,Expense 281,Cash,Merchant_28,Pending,May
+2024-06-13 00:00:00,1250.31,Shopping,Expense 282,UPI,Merchant_38,Pending,June
+2024-03-26 00:00:00,1007.35,Food,Expense 283,Debit Card,Merchant_48,Paid,March
+2024-09-11 00:00:00,3282.28,Food,Expense 284,Net Banking,Merchant_20,Paid,September
+2024-07-30 00:00:00,1760.5,Utilities,Expense 285,Credit Card,Merchant_5,Pending,July
+2024-02-19 00:00:00,2780.43,Shopping,Expense 286,Net Banking,Merchant_38,Paid,February
+2024-10-05 00:00:00,608.0,Food,Expense 287,Cash,Merchant_25,Paid,October
+2024-04-29 00:00:00,748.23,Health,Expense 288,Credit Card,Merchant_45,Paid,April
+2024-08-21 00:00:00,2374.58,Food,Expense 289,Cash,Merchant_9,Pending,August
+2024-05-17 00:00:00,1296.64,Transport,Expense 290,UPI,Merchant_24,Pending,May
+2024-01-06 00:00:00,3702.6,Entertainment,Expense 291,Net Banking,Merchant_20,Pending,January
+2024-05-21 00:00:00,531.51,Utilities,Expense 292,Credit Card,Merchant_48,Paid,May
+2024-02-01 00:00:00,2915.02,Entertainment,Expense 293,Cash,Merchant_45,Paid,February
+2024-01-16 00:00:00,61.29,Education,Expense 294,Net Banking,Merchant_34,Paid,January
+2024-05-27 00:00:00,2641.51,Education,Expense 295,Debit Card,Merchant_5,Paid,May
+2024-05-10 00:00:00,3807.49,Shopping,Expense 296,Cash,Merchant_20,Pending,May
+2024-09-11 00:00:00,4189.78,Entertainment,Expense 297,Credit Card,Merchant_17,Pending,September
+2024-11-02 00:00:00,91.02,Shopping,Expense 298,Cash,Merchant_50,Pending,November
+2024-06-29 00:00:00,113.07,Entertainment,Expense 299,Credit Card,Merchant_25,Pending,June
+2024-05-28 00:00:00,2143.97,Health,Expense 300,Debit Card,Merchant_50,Paid,May
+2024-01-23 00:00:00,3881.94,Education,Expense 301,UPI,Merchant_35,Paid,January
+2024-07-19 00:00:00,4773.75,Education,Expense 302,UPI,Merchant_15,Pending,July
+2024-05-11 00:00:00,2213.13,Food,Expense 303,Debit Card,Merchant_43,Paid,May
+2024-05-12 00:00:00,3694.91,Entertainment,Expense 304,Debit Card,Merchant_20,Pending,May
+2024-06-16 00:00:00,4782.75,Health,Expense 305,Debit Card,Merchant_39,Pending,June
+2024-03-18 00:00:00,4516.79,Utilities,Expense 306,UPI,Merchant_8,Pending,March
+2024-08-20 00:00:00,4068.11,Utilities,Expense 307,UPI,Merchant_7,Paid,August
+2024-01-13 00:00:00,793.84,Entertainment,Expense 308,UPI,Merchant_22,Pending,January
+2024-12-17 00:00:00,212.39,Entertainment,Expense 309,Net Banking,Merchant_48,Pending,December
+2024-05-18 00:00:00,3387.63,Health,Expense 310,Debit Card,Merchant_47,Paid,May
+2024-11-07 00:00:00,2871.86,Food,Expense 311,Net Banking,Merchant_7,Paid,November
+2024-06-21 00:00:00,852.88,Shopping,Expense 312,Net Banking,Merchant_47,Paid,June
+2024-10-31 00:00:00,4719.3,Transport,Expense 313,Net Banking,Merchant_49,Paid,October
+2024-09-22 00:00:00,292.2,Transport,Expense 314,Net Banking,Merchant_24,Pending,September
+2024-12-03 00:00:00,3136.16,Transport,Expense 315,Credit Card,Merchant_14,Pending,December
+2024-03-09 00:00:00,2592.95,Transport,Expense 316,Net Banking,Merchant_2,Pending,March
+2024-10-18 00:00:00,3611.22,Food,Expense 317,Net Banking,Merchant_32,Pending,October
+2024-08-11 00:00:00,2487.04,Entertainment,Expense 318,Debit Card,Merchant_45,Paid,August
+2024-05-19 00:00:00,1227.64,Shopping,Expense 319,UPI,Merchant_33,Paid,May
+2024-01-20 00:00:00,3218.37,Utilities,Expense 320,Net Banking,Merchant_27,Pending,January
+2024-01-08 00:00:00,1329.75,Utilities,Expense 321,Debit Card,Merchant_41,Paid,January
+2024-08-22 00:00:00,3822.19,Utilities,Expense 322,Net Banking,Merchant_44,Paid,August
+2024-03-21 00:00:00,2312.04,Transport,Expense 323,Net Banking,Merchant_41,Paid,March
+2024-12-16 00:00:00,172.46,Health,Expense 324,Debit Card,Merchant_7,Paid,December
+2024-06-25 00:00:00,602.09,Shopping,Expense 325,Cash,Merchant_48,Pending,June
+2024-07-08 00:00:00,804.83,Food,Expense 326,UPI,Merchant_24,Pending,July
+2024-09-25 00:00:00,192.82,Transport,Expense 327,Credit Card,Merchant_7,Pending,September
+2024-11-30 00:00:00,605.19,Education,Expense 328,Debit Card,Merchant_40,Paid,November
+2024-10-15 00:00:00,3179.69,Education,Expense 329,Debit Card,Merchant_28,Pending,October
+2024-07-19 00:00:00,1887.72,Transport,Expense 330,Debit Card,Merchant_14,Paid,July
+2024-06-23 00:00:00,1473.02,Food,Expense 331,Cash,Merchant_31,Paid,June
+2024-07-12 00:00:00,4985.56,Transport,Expense 332,Cash,Merchant_49,Paid,July
+2024-06-07 00:00:00,3049.29,Food,Expense 333,Credit Card,Merchant_18,Pending,June
+2024-03-12 00:00:00,2796.9,Shopping,Expense 334,Net Banking,Merchant_14,Pending,March
+2024-01-06 00:00:00,3529.65,Health,Expense 335,Credit Card,Merchant_7,Pending,January
+2024-06-28 00:00:00,1619.53,Transport,Expense 336,Net Banking,Merchant_7,Pending,June
+2024-09-28 00:00:00,4067.43,Utilities,Expense 337,Debit Card,Merchant_22,Pending,September
+2024-06-08 00:00:00,2196.82,Food,Expense 338,Debit Card,Merchant_34,Pending,June
+2024-01-06 00:00:00,2216.29,Food,Expense 339,Debit Card,Merchant_23,Paid,January
+2024-12-05 00:00:00,2015.74,Education,Expense 340,UPI,Merchant_25,Pending,December
+2024-03-04 00:00:00,4466.73,Utilities,Expense 341,Debit Card,Merchant_49,Pending,March
+2024-07-21 00:00:00,2559.4,Education,Expense 342,Credit Card,Merchant_31,Paid,July
+2024-12-21 00:00:00,3734.63,Transport,Expense 343,Cash,Merchant_24,Paid,December
+2024-10-06 00:00:00,1395.7,Transport,Expense 344,UPI,Merchant_5,Pending,October
+2024-12-14 00:00:00,1150.98,Food,Expense 345,Net Banking,Merchant_2,Pending,December
+2024-01-20 00:00:00,2396.05,Food,Expense 346,UPI,Merchant_48,Paid,January
+2024-12-22 00:00:00,2866.41,Transport,Expense 347,Credit Card,Merchant_13,Paid,December
+2024-07-11 00:00:00,1111.4,Utilities,Expense 348,UPI,Merchant_22,Pending,July
+2024-02-09 00:00:00,3227.18,Shopping,Expense 349,UPI,Merchant_31,Pending,February
+2024-09-16 00:00:00,3657.74,Education,Expense 350,Net Banking,Merchant_14,Paid,September
+2024-05-26 00:00:00,3079.81,Entertainment,Expense 351,Net Banking,Merchant_5,Paid,May
+2024-06-18 00:00:00,2995.32,Shopping,Expense 352,Cash,Merchant_45,Pending,June
+2024-04-18 00:00:00,755.99,Transport,Expense 353,Credit Card,Merchant_45,Paid,April
+2024-07-30 00:00:00,2917.67,Health,Expense 354,Credit Card,Merchant_43,Pending,July
+2024-11-05 00:00:00,1847.23,Education,Expense 355,UPI,Merchant_38,Paid,November
+2024-12-03 00:00:00,4083.15,Shopping,Expense 356,UPI,Merchant_8,Paid,December
+2024-09-29 00:00:00,768.02,Entertainment,Expense 357,Debit Card,Merchant_1,Pending,September
+2024-02-15 00:00:00,1832.85,Food,Expense 358,UPI,Merchant_50,Paid,February
+2024-08-09 00:00:00,431.93,Shopping,Expense 359,Cash,Merchant_9,Pending,August
+2024-09-11 00:00:00,3597.12,Education,Expense 360,Cash,Merchant_30,Paid,September
+2024-02-17 00:00:00,1710.19,Education,Expense 361,UPI,Merchant_30,Paid,February
+2024-04-07 00:00:00,4445.23,Health,Expense 362,Net Banking,Merchant_32,Paid,April
+2024-04-28 00:00:00,3230.02,Food,Expense 363,Debit Card,Merchant_9,Paid,April
+2024-10-16 00:00:00,1202.61,Education,Expense 364,Debit Card,Merchant_26,Paid,October
+2024-09-19 00:00:00,3874.47,Transport,Expense 365,Net Banking,Merchant_7,Paid,September
+2024-03-31 00:00:00,4990.09,Education,Expense 366,Credit Card,Merchant_28,Paid,March
+2024-10-25 00:00:00,4767.3,Transport,Expense 367,Cash,Merchant_33,Pending,October
+2024-01-10 00:00:00,2171.01,Health,Expense 368,Debit Card,Merchant_42,Pending,January
+2024-01-03 00:00:00,1809.13,Entertainment,Expense 369,Credit Card,Merchant_42,Pending,January
+2024-12-13 00:00:00,1143.9,Entertainment,Expense 370,Debit Card,Merchant_2,Paid,December
+2024-12-05 00:00:00,2733.77,Education,Expense 371,Net Banking,Merchant_22,Paid,December
+2024-05-09 00:00:00,2515.98,Utilities,Expense 372,Credit Card,Merchant_2,Pending,May
+2024-01-25 00:00:00,2079.81,Shopping,Expense 373,Credit Card,Merchant_23,Pending,January
+2024-04-05 00:00:00,1375.71,Utilities,Expense 374,Net Banking,Merchant_33,Paid,April
+2024-09-09 00:00:00,4687.44,Utilities,Expense 375,Net Banking,Merchant_31,Pending,September
+2024-08-12 00:00:00,897.52,Food,Expense 376,UPI,Merchant_5,Paid,August
+2024-01-19 00:00:00,2272.33,Education,Expense 377,UPI,Merchant_32,Paid,January
+2024-11-25 00:00:00,1341.61,Utilities,Expense 378,UPI,Merchant_22,Pending,November
+2024-02-01 00:00:00,3036.72,Education,Expense 379,Credit Card,Merchant_5,Paid,February
+2024-08-29 00:00:00,2471.77,Food,Expense 380,Cash,Merchant_3,Paid,August
+2024-12-15 00:00:00,629.99,Education,Expense 381,Cash,Merchant_33,Pending,December
+2024-10-03 00:00:00,2897.59,Health,Expense 382,UPI,Merchant_32,Pending,October
+2024-07-12 00:00:00,3187.32,Transport,Expense 383,Cash,Merchant_6,Pending,July
+2024-09-13 00:00:00,4787.34,Education,Expense 384,UPI,Merchant_11,Pending,September
+2024-08-17 00:00:00,1332.56,Health,Expense 385,Debit Card,Merchant_28,Pending,August
+2024-07-11 00:00:00,3712.3,Shopping,Expense 386,Credit Card,Merchant_18,Paid,July
+2024-05-05 00:00:00,2998.96,Transport,Expense 387,Credit Card,Merchant_19,Paid,May
+2024-11-19 00:00:00,2215.53,Entertainment,Expense 388,Cash,Merchant_48,Paid,November
+2024-02-12 00:00:00,4086.5,Shopping,Expense 389,Debit Card,Merchant_38,Pending,February
+2024-12-07 00:00:00,3711.81,Food,Expense 390,Debit Card,Merchant_26,Paid,December
+2024-10-30 00:00:00,336.07,Education,Expense 391,Debit Card,Merchant_23,Pending,October
+2024-09-04 00:00:00,364.19,Utilities,Expense 392,UPI,Merchant_29,Pending,September
+2024-12-17 00:00:00,3816.41,Shopping,Expense 393,Debit Card,Merchant_18,Paid,December
+2024-08-25 00:00:00,2421.69,Shopping,Expense 394,Credit Card,Merchant_41,Paid,August
+2024-08-27 00:00:00,2847.32,Utilities,Expense 395,Net Banking,Merchant_37,Paid,August
+2024-01-17 00:00:00,4917.25,Health,Expense 396,Credit Card,Merchant_37,Pending,January
+2024-09-16 00:00:00,2259.5,Food,Expense 397,UPI,Merchant_3,Paid,September
+2024-05-23 00:00:00,3143.04,Education,Expense 398,Net Banking,Merchant_34,Pending,May
+2024-07-04 00:00:00,212.69,Shopping,Expense 399,Debit Card,Merchant_22,Pending,July
+2024-10-24 00:00:00,3812.59,Utilities,Expense 400,Net Banking,Merchant_38,Paid,October
+2024-06-30 00:00:00,1544.17,Entertainment,Expense 401,Debit Card,Merchant_45,Pending,June
+2024-10-27 00:00:00,1723.03,Health,Expense 402,Net Banking,Merchant_27,Paid,October
+2024-09-02 00:00:00,4006.38,Education,Expense 403,Cash,Merchant_6,Pending,September
+2024-03-17 00:00:00,3127.22,Food,Expense 404,Cash,Merchant_23,Paid,March
+2024-11-05 00:00:00,3940.15,Transport,Expense 405,Debit Card,Merchant_6,Pending,November
+2024-01-18 00:00:00,2669.41,Health,Expense 406,Debit Card,Merchant_14,Paid,January
+2024-01-25 00:00:00,4932.38,Food,Expense 407,Cash,Merchant_26,Pending,January
+2024-02-15 00:00:00,4388.07,Education,Expense 408,UPI,Merchant_25,Paid,February
+2024-11-24 00:00:00,1694.62,Food,Expense 409,Debit Card,Merchant_29,Paid,November
+2024-09-02 00:00:00,1712.28,Education,Expense 410,Credit Card,Merchant_36,Pending,September
+2024-09-08 00:00:00,1732.8,Education,Expense 411,Debit Card,Merchant_33,Pending,September
+2024-08-11 00:00:00,2397.22,Education,Expense 412,UPI,Merchant_47,Paid,August
+2024-12-27 00:00:00,287.02,Entertainment,Expense 413,Debit Card,Merchant_50,Paid,December
+2024-10-22 00:00:00,3345.68,Utilities,Expense 414,Credit Card,Merchant_19,Pending,October
+2024-06-13 00:00:00,3174.81,Transport,Expense 415,Credit Card,Merchant_25,Pending,June
+2024-12-06 00:00:00,4570.05,Entertainment,Expense 416,Cash,Merchant_22,Paid,December
+2024-09-01 00:00:00,3355.04,Transport,Expense 417,Cash,Merchant_18,Paid,September
+2024-02-11 00:00:00,326.8,Shopping,Expense 418,Cash,Merchant_21,Pending,February
+2024-02-14 00:00:00,1308.78,Utilities,Expense 419,UPI,Merchant_31,Pending,February
+2024-02-01 00:00:00,2359.81,Health,Expense 420,Credit Card,Merchant_42,Pending,February
+2024-02-27 00:00:00,1240.87,Health,Expense 421,Net Banking,Merchant_28,Pending,February
+2024-09-26 00:00:00,1287.48,Shopping,Expense 422,Net Banking,Merchant_1,Paid,September
+2024-01-05 00:00:00,4145.89,Entertainment,Expense 423,Net Banking,Merchant_30,Paid,January
+2024-11-29 00:00:00,2951.95,Health,Expense 424,Net Banking,Merchant_7,Paid,November
+2024-02-29 00:00:00,2161.92,Transport,Expense 425,UPI,Merchant_34,Pending,February
+2024-03-30 00:00:00,2559.83,Shopping,Expense 426,UPI,Merchant_23,Paid,March
+2024-07-19 00:00:00,1005.96,Shopping,Expense 427,Net Banking,Merchant_44,Pending,July
+2024-06-01 00:00:00,674.36,Food,Expense 428,Cash,Merchant_4,Pending,June
+2024-05-13 00:00:00,4424.21,Education,Expense 429,Cash,Merchant_8,Paid,May
+2024-07-05 00:00:00,2092.34,Utilities,Expense 430,Cash,Merchant_14,Paid,July
+2024-09-08 00:00:00,1498.74,Utilities,Expense 431,Credit Card,Merchant_1,Pending,September
+2024-12-12 00:00:00,4037.23,Utilities,Expense 432,Credit Card,Merchant_36,Pending,December
+2024-03-26 00:00:00,4056.44,Health,Expense 433,Net Banking,Merchant_12,Pending,March
+2024-12-06 00:00:00,4143.68,Shopping,Expense 434,UPI,Merchant_3,Pending,December
+2024-02-15 00:00:00,1020.2,Education,Expense 435,Debit Card,Merchant_29,Paid,February
+2024-08-06 00:00:00,3118.3,Food,Expense 436,Debit Card,Merchant_38,Pending,August
+2024-04-08 00:00:00,2246.71,Transport,Expense 437,UPI,Merchant_22,Paid,April
+2024-04-14 00:00:00,4397.98,Transport,Expense 438,UPI,Merchant_40,Paid,April
+2024-02-20 00:00:00,4355.55,Entertainment,Expense 439,Cash,Merchant_26,Paid,February
+2024-06-29 00:00:00,3386.74,Education,Expense 440,UPI,Merchant_44,Paid,June
+2024-10-12 00:00:00,2405.98,Utilities,Expense 441,Debit Card,Merchant_13,Pending,October
+2024-12-19 00:00:00,171.26,Health,Expense 442,UPI,Merchant_34,Paid,December
+2024-04-28 00:00:00,2130.43,Utilities,Expense 443,UPI,Merchant_42,Paid,April
+2024-04-02 00:00:00,710.44,Transport,Expense 444,Net Banking,Merchant_2,Paid,April
+2024-03-27 00:00:00,1283.67,Food,Expense 445,Credit Card,Merchant_2,Paid,March
+2024-09-29 00:00:00,315.31,Entertainment,Expense 446,Cash,Merchant_32,Paid,September
+2024-01-04 00:00:00,3367.91,Health,Expense 447,Credit Card,Merchant_45,Pending,January
+2024-11-05 00:00:00,1011.13,Education,Expense 448,UPI,Merchant_41,Paid,November
+2024-03-26 00:00:00,2275.3,Transport,Expense 449,UPI,Merchant_30,Pending,March
+2024-10-20 00:00:00,3775.79,Food,Expense 450,Credit Card,Merchant_24,Pending,October
+2024-09-16 00:00:00,1645.45,Transport,Expense 451,Net Banking,Merchant_28,Pending,September
+2024-03-31 00:00:00,4594.11,Food,Expense 452,Debit Card,Merchant_33,Pending,March
+2024-12-10 00:00:00,1173.69,Transport,Expense 453,Debit Card,Merchant_14,Pending,December
+2024-11-22 00:00:00,3344.0,Shopping,Expense 454,UPI,Merchant_1,Pending,November
+2024-02-25 00:00:00,58.24,Transport,Expense 455,UPI,Merchant_48,Paid,February
+2024-04-01 00:00:00,3704.16,Shopping,Expense 456,Cash,Merchant_7,Paid,April
+2024-10-14 00:00:00,2181.88,Shopping,Expense 457,UPI,Merchant_34,Paid,October
+2024-11-23 00:00:00,3488.45,Health,Expense 458,Cash,Merchant_43,Pending,November
+2024-01-26 00:00:00,1674.83,Entertainment,Expense 459,Net Banking,Merchant_40,Paid,January
+2024-06-08 00:00:00,1039.49,Entertainment,Expense 460,Debit Card,Merchant_41,Pending,June
+2024-06-22 00:00:00,4250.15,Food,Expense 461,Cash,Merchant_31,Pending,June
+2024-03-12 00:00:00,2750.05,Transport,Expense 462,Debit Card,Merchant_2,Pending,March
+2024-01-12 00:00:00,2080.1,Entertainment,Expense 463,Credit Card,Merchant_33,Paid,January
+2024-07-03 00:00:00,4985.38,Transport,Expense 464,Credit Card,Merchant_45,Pending,July
+2024-10-13 00:00:00,1211.91,Health,Expense 465,UPI,Merchant_7,Paid,October
+2024-01-03 00:00:00,1005.7,Entertainment,Expense 466,Debit Card,Merchant_13,Pending,January
+2024-06-21 00:00:00,4993.35,Transport,Expense 467,Credit Card,Merchant_22,Pending,June
+2024-05-05 00:00:00,53.67,Utilities,Expense 468,UPI,Merchant_28,Paid,May
+2024-08-31 00:00:00,205.88,Transport,Expense 469,Cash,Merchant_14,Paid,August
+2024-10-12 00:00:00,4081.42,Entertainment,Expense 470,Net Banking,Merchant_7,Pending,October
+2024-03-14 00:00:00,529.23,Food,Expense 471,Credit Card,Merchant_16,Paid,March
+2024-06-06 00:00:00,1593.98,Health,Expense 472,UPI,Merchant_13,Paid,June
+2024-09-17 00:00:00,3911.66,Health,Expense 473,Cash,Merchant_13,Pending,September
+2024-04-01 00:00:00,150.55,Transport,Expense 474,Debit Card,Merchant_13,Pending,April
+2024-10-27 00:00:00,1091.31,Utilities,Expense 475,Net Banking,Merchant_50,Pending,October
+2024-06-27 00:00:00,2739.78,Shopping,Expense 476,Cash,Merchant_29,Paid,June
+2024-11-19 00:00:00,2998.37,Food,Expense 477,Debit Card,Merchant_8,Paid,November
+2024-09-18 00:00:00,2603.8,Transport,Expense 478,Debit Card,Merchant_33,Paid,September
+2024-11-28 00:00:00,299.82,Transport,Expense 479,UPI,Merchant_29,Paid,November
+2024-05-11 00:00:00,4133.94,Utilities,Expense 480,Credit Card,Merchant_35,Paid,May
+2024-10-02 00:00:00,2583.26,Education,Expense 481,Cash,Merchant_5,Paid,October
+2024-07-08 00:00:00,103.02,Health,Expense 482,Cash,Merchant_11,Pending,July
+2024-08-19 00:00:00,437.56,Shopping,Expense 483,Net Banking,Merchant_29,Pending,August
+2024-08-23 00:00:00,1910.97,Education,Expense 484,Cash,Merchant_1,Pending,August
+2024-09-28 00:00:00,1726.36,Food,Expense 485,Net Banking,Merchant_23,Paid,September
+2024-07-03 00:00:00,1273.76,Transport,Expense 486,UPI,Merchant_4,Paid,July
+2024-10-10 00:00:00,1767.2,Entertainment,Expense 487,Debit Card,Merchant_14,Paid,October
+2024-05-10 00:00:00,1603.86,Food,Expense 488,Cash,Merchant_49,Pending,May
+2024-06-17 00:00:00,4586.55,Entertainment,Expense 489,UPI,Merchant_7,Paid,June
+2024-05-29 00:00:00,4540.31,Education,Expense 490,Net Banking,Merchant_7,Pending,May
+2024-08-27 00:00:00,1892.07,Food,Expense 491,Cash,Merchant_14,Pending,August
+2024-10-21 00:00:00,2546.98,Health,Expense 492,UPI,Merchant_48,Paid,October
+2024-03-15 00:00:00,2744.73,Entertainment,Expense 493,Net Banking,Merchant_13,Pending,March
+2024-05-21 00:00:00,2937.55,Education,Expense 494,Net Banking,Merchant_49,Paid,May
+2024-09-04 00:00:00,3497.69,Shopping,Expense 495,Credit Card,Merchant_17,Pending,September
+2024-04-16 00:00:00,1221.52,Transport,Expense 496,Cash,Merchant_38,Pending,April
+2024-08-20 00:00:00,2615.87,Transport,Expense 497,Credit Card,Merchant_29,Paid,August
+2024-03-20 00:00:00,4481.39,Food,Expense 498,Cash,Merchant_10,Paid,March
+2024-06-03 00:00:00,1901.22,Education,Expense 499,Debit Card,Merchant_13,Pending,June
+2024-02-19 00:00:00,2065.24,Transport,Expense 500,UPI,Merchant_36,Pending,February
+2025-12-25,50000.0,prerita,dev joshi,,,,
